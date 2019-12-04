@@ -6,8 +6,6 @@ using namespace std;
 
 int *loadOpCodes();
 
-int getFuelCost(int fuel);
-
 void part1();
 
 void part2();
